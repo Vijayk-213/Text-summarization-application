@@ -1,0 +1,14 @@
+Flask
+sumy
+Werkzeug
+Jinja2
+itsdangerous
+click
+breadability
+docopt
+nltk
+numpy
+pycountry
+requests
+chardet
+lxml
